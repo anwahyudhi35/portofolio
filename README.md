@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anwahyudhi35
 - 👀 I’m interested in Web Developing and Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Laravel, Vue and Flutter
 - 💞️ I’m looking to collaborate on everything for learning
 - 📫 How to reach me anwahyudhi35@gmail.com
 
